@@ -1,7 +1,7 @@
 # Git-CheatSheet
 Git-CheatSheet is a repository to quickly access commonly used commands in git.
 
-### Create
+### Create/Init
 1. Clone an existing repository
 ```bash
 git clone <repo-url>
